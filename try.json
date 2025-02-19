@@ -1,0 +1,56 @@
+{
+    "cinemaService": {
+        "films": [
+            {
+                "title": "Любовь и Голуби",
+                "janre": [
+                    "comedian"
+                ],
+                "director": "Cмирнов"
+            },
+            {
+                "title": "Сталкер",
+                "janre": [
+                    "horror"
+                ],
+                "director": "Тарковский"
+            },
+            {
+                "title": "Снег",
+                "janre": [
+                    "comedian"
+                ],
+                "director": "Васильев"
+            },
+            {
+                "title": "Бриллиантовая рука",
+                "janre": [
+                    "comedian"
+                ],
+                "director": "Курочкин"
+            }
+        ],
+        "users": [
+            {
+                "name": "Игорь",
+                "surname": "Вялов",
+                "dateofbirth": "1994-12-12"
+            },
+            {
+                "name": "Игорь",
+                "surname": "Вялов",
+                "dateofbirth": "1994-12-12"
+            },
+            {
+                "name": "Игорь",
+                "surname": "Вялов",
+                "dateofbirth": "1994-12-12"
+            },
+            {
+                "name": "Игорь",
+                "surname": "Вялов",
+                "dateofbirth": "1994-12-12"
+            }
+        ]
+    }
+}
